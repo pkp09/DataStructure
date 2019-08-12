@@ -2,6 +2,10 @@ package com.prashant.hacker.rank.problem.algorithm.implementation;
 
 import java.util.ArrayList;
 
+/**
+ * @author pkp09
+ *
+ */
 public class SequenceEquation {
 	
 	 static int[] permutationEquation(int[] p) {
