@@ -16,6 +16,7 @@
  * ThreadPool
  * DeadLock
  * Callable
+ * Future
 # Concurrent API
  * Blocking Queue
  * CountDownLatch
