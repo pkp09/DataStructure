@@ -6,7 +6,7 @@
   * Stack
   * Binary Tree
   * Binary Search Tree
-# MultiThreding
+# MultiThreading
 # Concurrent API
 # HackerRank Solution
 # GeeksForGeeks
