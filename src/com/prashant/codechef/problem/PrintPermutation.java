@@ -12,7 +12,7 @@ public class PrintPermutation {
 			return;
 		}
 		
-		for(int i =0; i < str.length(); i++) {
+		for(int i = 0; i < str.length(); i++) {
 			char c = str.charAt(i);
 			String strToPrint = str.substring(0, i) + str.substring(i+1);
 			
